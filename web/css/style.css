@@ -1,0 +1,51 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    width: 80px;
+}
+.btn-primary{
+    background-color: #ffffff;
+    border: none;
+    color: #8ac5c6;
+    padding: 12px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 300;
+}
+.nav{
+    background-color: #8ac5c6;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    border: none;
+}
+.hero{
+    background-color: #8ac5c6;
+    color: white;
+    padding: 100px 15px 140px 15px;
+    height: 100vh;
+}
+.btn-secondary{
+    background-color: #8ac5c6;
+    border: none;
+    color: #ffffff;
+    padding: 12px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    text-transform: uppercase;
+    border: 2px solid white;
+    font-weight: 300;
+}
+h1{
+    font-family: 'Merriweather', serif;
+}
